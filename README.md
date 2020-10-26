@@ -1,1 +1,1 @@
-# CNN-Cifar-10-
+# CNN-Cifar-10
