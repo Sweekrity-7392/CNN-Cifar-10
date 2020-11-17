@@ -1,7 +1,6 @@
 # CNN-Cifar-10
 
 ## Files and folder
--------------------
 
 ### plots
 This folder contains all the obtained plots
@@ -20,11 +19,9 @@ This is python script that:
    returns confusion matrix. 
    
 ## Model used
--------------
 Convolutional neural networks(CNN) is used to classify images into 10 different categories. 
 The model is explained in detail in the following diagram:
 ![CNN model](https://user-images.githubusercontent.com/55786474/99361220-dca8db00-28d9-11eb-94ae-813e13e344e9.png)
 
 ## Results
-----------
 60% accuracy obtained by running batch of 90 for 100 epochs. Confusion matrix and plot for accuracy and loss are saved in the folder, Plots. 
